@@ -1,0 +1,2 @@
+# parcijalni
+GitHub API
